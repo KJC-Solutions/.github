@@ -1,4 +1,4 @@
-# KJ Development
+# KJC Solutions
 
 Modern Minecraft server software, built with clean architecture and long-term scalability in mind.
 
@@ -6,7 +6,7 @@ Modern Minecraft server software, built with clean architecture and long-term sc
 
 ## 🚀 What We Do
 
-KJ Development focuses on building high-quality plugins for the Paper platform using modern APIs such as:
+KJC Solutions focuses on building high-quality plugins for the Paper platform using modern APIs such as:
 
 - Adventure & MiniMessage
 - Brigadier command system
@@ -51,7 +51,7 @@ Not just functional — but engineered.
 ## 🌍 Connect
 
 - [**GitHub Sponsors**](https://github.com/sponsors/KJChambers) - Support ongoing development
-- [**LinkedIn**](https://www.linkedin.com/company/kj-development) - KJ Development
+- [**LinkedIn**](https://www.linkedin.com/company/kjc-solutions) - KJ Development
 - [**Discord**](https://discord.gg/KRksfGhQEH)
   
 ---
